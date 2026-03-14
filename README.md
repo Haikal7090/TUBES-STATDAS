@@ -1,5 +1,6 @@
 # Analisis Produksi Sumur № 807 (2013-2021) Dengan Pendekatan Statistika 
 ![R Language](https://img.shields.io/badge/Language-R-276DC3?logo=r&logoColor=white)
+![ARIMA Model](https://img.shields.io/badge/Model-ARIMA-0073B7?style=flat-square)
 
 Repository ini berisi Model Time Series dan Regresi Linear yang digunakan untuk melakukan forecasting produksi pada Sumur № 807 untuk periode tahun 2013-2021. Dataset ini diperoleh dari Kaggle (//www.kaggle.com/datasets/ruslanzalevskikh/oil-well
 ).
